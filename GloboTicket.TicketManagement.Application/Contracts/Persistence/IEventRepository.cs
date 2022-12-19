@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace GloboTicket.TicketManagement.Application.Contracts.Persistence
 {
-    public interface IEventRespository :IAsyncRepository<Event>
+    public interface IEventRepository :IAsyncRepository<Event>
     {
     }
 }
