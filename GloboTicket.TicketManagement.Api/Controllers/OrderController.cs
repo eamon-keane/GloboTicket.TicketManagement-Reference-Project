@@ -1,5 +1,4 @@
-﻿using GloboTicket.TicketManagement.Application.Features.Orders.GetOrdersForMonth;
-using MediatR;
+﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
 namespace GloboTicket.TicketManagement.Api.Controllers
