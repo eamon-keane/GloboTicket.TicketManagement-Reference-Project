@@ -9,6 +9,7 @@ Uses
 - MediatR
 - EF Core
 - FluentValidation
+- Swagger
 - ASPNET
 
 
