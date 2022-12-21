@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GloboTicket.TicketManagemen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GloboTicket.TicketManagement.Persistence.IntegrationTests", "GloboTicket.TicketManagement.Persistence.IntegrationTests\GloboTicket.TicketManagement.Persistence.IntegrationTests.csproj", "{E026B548-E15F-4EA0-96EA-FCB3958E3F07}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GloboTicket.TicketManagement.API.IntegrationTests", "GloboTicket.TicketManagement.API.IntegrationTests\GloboTicket.TicketManagement.API.IntegrationTests.csproj", "{ECB672AF-8EB7-4E12-8B97-D9954062CB2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,10 @@ Global
 		{E026B548-E15F-4EA0-96EA-FCB3958E3F07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E026B548-E15F-4EA0-96EA-FCB3958E3F07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E026B548-E15F-4EA0-96EA-FCB3958E3F07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECB672AF-8EB7-4E12-8B97-D9954062CB2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECB672AF-8EB7-4E12-8B97-D9954062CB2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECB672AF-8EB7-4E12-8B97-D9954062CB2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECB672AF-8EB7-4E12-8B97-D9954062CB2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -76,6 +82,7 @@ Global
 		{6850A2FA-CBAE-4863-93E1-A807185B6CEA} = {4898C6AA-BD17-4A54-A4F8-AD8746073F60}
 		{0A4462CB-3A04-4585-95F8-5B778A1BC9AA} = {61E8B614-4657-4E4B-A820-0B806B705AB2}
 		{E026B548-E15F-4EA0-96EA-FCB3958E3F07} = {61E8B614-4657-4E4B-A820-0B806B705AB2}
+		{ECB672AF-8EB7-4E12-8B97-D9954062CB2A} = {61E8B614-4657-4E4B-A820-0B806B705AB2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8F49375B-443B-45A6-B0E1-CE3CA9625E66}
